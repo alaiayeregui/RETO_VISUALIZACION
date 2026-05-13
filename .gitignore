@@ -1,0 +1,20 @@
+# Variables de entorno con credenciales
+.env
+
+# Volúmenes y datos generados por Docker
+data/
+certs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/

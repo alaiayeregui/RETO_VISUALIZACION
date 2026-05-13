@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "description": "Dashboard IoT Sensores Industriales - País Vasco",
+    "version": "8.13.0"
+  },
+  "objects": [
+    {
+      "id": "iot-sensors-dataview",
+      "type": "index-pattern",
+      "attributes": {
+        "title": "iot-sensors*",
+        "timeFieldName": "@timestamp",
+        "fields": "[]"
+      }
+    }
+  ],
+  "panels": [
+    {
+      "title": "Mapa de Sensores por Planta",
+      "type": "map",
+      "description": "Visualización geográfica de todas las plantas industriales y sus lecturas en tiempo real"
+    },
+    {
+      "title": "Alertas por Planta (últimas 24h)",
+      "type": "lens",
+      "description": "Número de alertas generadas agrupadas por planta"
+    },
+    {
+      "title": "Evolución de Temperatura por Planta",
+      "type": "lens",
+      "description": "Serie temporal de temperatura media por planta"
+    },
+    {
+      "title": "Distribución por Tipo de Sensor",
+      "type": "lens",
+      "description": "Donut chart con la distribución de tipos de sensor"
+    },
+    {
+      "title": "Máquinas en Estado de Alerta",
+      "type": "lens",
+      "description": "Tabla de máquinas con alertas activas en este momento"
+    }
+  ]
+}
