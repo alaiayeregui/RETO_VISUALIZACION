@@ -1,15 +1,16 @@
 # 🏭 IoT Industrial — Visualización de Datos con Elastic Stack
 
-> **Reto: Visualización de Datos** · Asignatura IoT Industrial · Universidad de Deusto  
+> **Reto: Visualización de Datos** · Desarrollo de aplicaciones para IoT · Universidad de Deusto  
 > Elastic Stack 8.13 · Elasticsearch · Kibana · Docker Compose · Python
 
 ---
 
 ## 👥 Miembros del equipo
 
-| Nombre | Rol |
-|--------|-----|
-| *(añadir miembros)* | *(añadir rol)* |
+| Nombre |
+|--------|
+| *Alaia Yeregui* |
+| *Asier Sánchez* |
 
 ---
 
