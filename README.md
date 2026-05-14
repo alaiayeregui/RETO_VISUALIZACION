@@ -1,4 +1,4 @@
-# 🏭 IoT Industrial — Visualización de Datos con Elastic Stack
+# 🏭 Simulación de Tráfico Aéreo y Visualización en Elastic Stack
 
 > **Reto: Visualización de Datos** · Desarrollo de aplicaciones para IoT · Universidad de Deusto  
 > Elastic Stack 8.13 · Elasticsearch · Kibana · Docker Compose · Python
